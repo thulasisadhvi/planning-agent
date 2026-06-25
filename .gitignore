@@ -1,0 +1,21 @@
+# Environments
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Just in case you run locally without Docker)
+venv/
+.venv/
+env/
+
+# Project Output Files
+# (This ignores the generated logs and plans, but keeps the folder)
+output/*.log
+output/*.json
+
+# OS Generated Files
+.DS_Store
+Thumbs.db

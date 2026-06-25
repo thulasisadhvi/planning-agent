@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langgraph
+pydantic>=2.0.0
+pdfplumber
+loguru
+python-dotenv
+requests
